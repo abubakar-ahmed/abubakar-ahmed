@@ -72,7 +72,7 @@ Currently manifesting a future where I fuse ML with motorsports engineering. If 
 - Favorite racer is Daniel Ricciardo....
 - I’ve made an app to predict tire wear. Yes. It works. (Sorta.)
 - Can talk about cars longer than tire life itself.       
-- 🎧 My playlist for coding sessions is 90% sad songs and 10% classical music — mostly on shuffle to be honest.
+- 🎧 My playlist for coding sessions is 90% weird songs and 10% classical music — mostly on shuffle to be honest.
 
 ---
 
