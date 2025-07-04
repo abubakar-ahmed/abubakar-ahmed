@@ -1,10 +1,10 @@
 ## Hi there 👋
 
-# 🚀 Welcome to the Lab of Mayhem — Aladdin_66
+# Welcome to the Lab of Mayhem — Aladdin_66
 
 > *“If it ain't fast, it's broken. If it ain't learning, it's dead.”* — Me, probably
 
-## 🧠 About Me
+##  About Me
 
 I'm a Software Engineering student with a **Machine Learning major** and a mild obsession with:
 - 🏎️ **Motorsports** (F1 addict, anything that runs on four wheels...)
@@ -16,7 +16,7 @@ Currently manifesting a future where I fuse ML with motorsports engineering. If 
 
 ---
 
-## 🔥 My Favorite Weapons
+##  My Favorite Weapons
 
 | 🛠️ Tech | 🚦 Used For |
 |--------|-------------|
