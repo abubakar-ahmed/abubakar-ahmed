@@ -40,15 +40,6 @@ Currently manifesting a future where I fuse ML with motorsports engineering. If 
 
 ---
 
-### 🌫️ PM2.5 Time Series Forecasting
-> Breathing air shouldn't be a gamble — so I built a model for it.
-
-- LSTM-based forecast on Beijing air quality dataset.
-- Interpolation, scaling, sequence generation, all in a clean Jupyter Notebook.
-- Tuned like a V6 hybrid.
-
----
-
 ### 🧠 Optimal Tire Compound Selector [![repo](https://img.shields.io/badge/GitHub--black?logo=github)](https://github.com/abubakar-ahmed/Tire-Wear-Prediction-App)
 > Because making the wrong pit call is a crime.
 
